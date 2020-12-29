@@ -1,0 +1,8 @@
+body {min-height: 1000px;background: linear-gradient(to top, #005aa7, #bedadb);}
+.main {width: 70%; margin: 0 auto; margin-top:5%;font-family: 'Dosis', sans-serif;}
+.clear {clear: both;}
+h1 {text-align: center;text-shadow: 3px 2px 0px #fff, 5px 6px 0px rgba(0,0,0,0.15);font-size: 40px;line-height: 20px;}
+.infoDate {float: left;text-align: center;width: 25%;}
+small {margin: 2rem; float: left;clear: both;}
+.rows {box-shadow: 4px 4px 10px rgba(0,0,0,0.5);width: 100%;display: inline-block;margin: 1rem 0;border-radius: 6px;padding-bottom: 10px;background-color: rgba(255,255,255,0.7);}
+#date {float: left;margin: 14px 0 0 13px;position: absolute;font-weight: bold;box-shadow: 3px 3px 5px rgba(0,0,0,0.5);width: 67px;border-radius: 8px;font-size: 20px;padding: 1px 8px 2px 8px;}
